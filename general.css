@@ -39,6 +39,12 @@ footer{
   padding-bottom: 10px;
   text-align: center;
 }
+
+.footerportfolio{
+  color: black;
+  background-color:black;
+
+}
 /************* HEADER *******************/
 .header {
     position: sticky;
@@ -218,6 +224,7 @@ margin-top: 250px;
   padding: 7px;
   border: 1px solid white;
 }
+
 /**** Få links til at skifte farve når musen køres over***/
 .links:hover {
   color: black;
