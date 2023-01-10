@@ -4,6 +4,9 @@
     box-sizing: border-box;
     background-color: black;
 }
+main{
+max-width: 1200px;
+}
 
 img{
   width: 100%;
@@ -206,11 +209,10 @@ margin-top: 250px;
 }
 
 
-/*********** portfolio sider************/
+/*********** portfolio sider ************/
 .portfoliooverskrifter {
   text-align: center;
 }
-
 
 
 .links {
@@ -240,5 +242,15 @@ margin-top: 250px;
   .grid_p{
     margin-top: 200px;
   }
+
+  .Proccesdokumentation{
+    max-width: 800px;
+    text-align: center;
+    position: center;
+  }
+  iframe {
+    position: 
+  }
 }
+
 
